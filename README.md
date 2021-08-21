@@ -23,7 +23,9 @@ RQ3: This directory contains the experiments results that we used for answering 
 RQ4: This directory contains the experiments results that we used for answering RQ4.
 
 # Source Code
-This directory contain the scripts to perform the experiments in RQ4, i.e., the code to build the prediction models. It is a small part of our own developped software, SNAP. Of course, the SNAP software can be obtained by emailing us (Email: wfpan@zjgsu.edu.cn).
+This directory contain the scripts to perform the experiments in RQ4, i.e., the code to build the prediction models. 
+
+The software, SNAP, used to obtain the FLSNs for classes now is only obtained on request. Interested readers can obtain SNAP by emailing us (Email: wfpan@zjgsu.edu.cn).
 
 # Cite our work
 If you use our data set or tool, please cite our work.
