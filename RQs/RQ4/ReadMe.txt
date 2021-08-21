@@ -1,0 +1,1 @@
+The file stores the bug prediciton results (i.e., p_{opt} values) of CK model and CK+FDC model used in our manuscript.

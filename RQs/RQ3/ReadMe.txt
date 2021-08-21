@@ -1,0 +1,1 @@
+These files store the spearman correlation between the metrics in CK metric suit and the number of bugs, and the spearman correlation between the FDC and the number of bugs.
