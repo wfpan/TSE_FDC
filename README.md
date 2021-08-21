@@ -4,23 +4,15 @@ This is the replication package for our work submitted to IEEE Transactions on S
 # FLSN
 This directory contains the FLSN that we built for classes in three subject systems. To reduce the number of FLSN files for a specific subject system, we store the FLSN for all classes in a file, i.e., we build the weighted directed software network at the feature level for a specific system. Thus, to produce the FLSN for a specific class, you should use the naming system of a class in Java programming language and filter out the features that do not belong to the same class. Further, the software network in this directory is weighted and directed. Thus, when building the FLSN, you should neglect the direction and compute the sum of weight on both direction as the new weight on the edge between two features.
 
-Each file has the following format:
-
-*Vertices node-number
-
-node-index-1 node-name-1
-
-node-index-2 node-name-2
-
-.....
-
-node-index-node-number node-name-node-number
-
-*Arcs
-
-node-index node-index weight
-
-.....
+Each file has the following format:<br/>
+*Vertices node-number<br/>
+node-index-1 node-name-1<br/>
+node-index-2 node-name-2<br/>
+.....<br/>
+node-index-node-number node-name-node-number<br/>
+*Arcs<br/>
+node-index node-index weight<br/>
+.....<br/>
 
 Note that we only provide the data for three subject systems; the whole data set will be available after our work's acceptance. Of course, interested readers can email us (Email: wfpan@zjgsu.edu.cn) to get the whole data set in advance. Please use your institutional email address.
 
