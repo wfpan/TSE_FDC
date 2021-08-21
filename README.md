@@ -23,7 +23,9 @@ RQ3: This directory contains the experiments results that we used for answering 
 RQ4: This directory contains the experiments results that we used for answering RQ4.
 
 # Source Code
-This directory contains the scripts to perform all the experiments in our work. It is a small part of our own developped software, SNAP. Of course, the SNAP software can be obtained by emailing us (Email: wfpan@zjgsu.edu.cn).
+This directory will contain the scripts to perform all the experiments in our work. It is a small part of our own developped software, SNAP. Of course, the SNAP software can be obtained by emailing us (Email: wfpan@zjgsu.edu.cn).
+
+Note that this directory now contains nothing. The source code will be available after our work's acceptance.
 
 # Cite our work
 If you use our data set or tool, please cite our work.
