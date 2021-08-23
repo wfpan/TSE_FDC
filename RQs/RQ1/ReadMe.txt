@@ -1,0 +1,1 @@
+Files with surfix -FDC.csv store the analysis results. The 1st column is the node id, the 2nd column is the class name, the 3rd column is the R^2, the 5th column is the FDC, and the last column is the number of bugs.
