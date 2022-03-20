@@ -1,5 +1,5 @@
 # TSE_FDC
-This is the replication package for our work submitted to IEEE Transactions on Software Engineering, i.e., Weifeng Pan, Tian Wang, Hua Ming, Dae-Kyoo Kim, Zijiang Yang. The FDC of classes and its applicaiton in bug prediction. IEEE Transactions on Software Engineering, 2021, submitted. [[PDF](#)]
+This is the replication package for our work submitted to IEEE Transactions on Software Engineering.
 
 # FLSN
 This directory contains the FLSN that we built for classes in three subject systems. To reduce the number of FLSN files for a specific subject system, we store the FLSN for all classes in a file, i.e., we build the weighted directed software network at the feature level for a specific system. Thus, to produce the FLSN for a specific class, you should use the naming system of a class in Java programming language and filter out the features that do not belong to the same class to build the FLSN for a specific class. Furthermore, the software network in this directory is weighted and directed. Thus, when building the FLSN, you should neglect the direction and compute the sum of weight on both direction as the new weight on the edge between two features.
@@ -28,8 +28,3 @@ This directory contain the scripts to perform the experiments in RQ4, i.e., the 
 The software, SNAP, used to obtain the FLSNs for classes now is only obtained on request. Interested readers can obtain SNAP by emailing us (Email: wfpan@zjgsu.edu.cn).
 
 Note that this directory now is null. The scripts will be available after our work's acceptance.
-
-# Cite our work
-If you use our data set or tool, please cite our work.
-
-Weifeng Pan, Tian Wang, Hua Ming, Dae-Kyoo Kim, Zijiang Yang. The FDC of classes and its applicaiton in bug prediction. IEEE Transactions on Software Engineering, 2021, submitted. [[PDF](#)]
